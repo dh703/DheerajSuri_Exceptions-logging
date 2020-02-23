@@ -1,0 +1,9 @@
+2020-02-23 17:21:25 INFO  Main:Main:12 -Enter the principle amount
+2020-02-23 17:21:27 INFO  Main:Main:14 -Enter the time period
+2020-02-23 17:21:31 INFO  Main:Main:16 -Enter the rate of interest
+2020-02-23 17:21:34 INFO  Main:Main:19 -
+1.Simple Interest
+2.Compound Interest
+2020-02-23 17:21:34 INFO  Main:Main:20 -Enter the choice
+2020-02-23 17:21:36 INFO  Main:Main:25 -120.0
+2020-02-23 17:21:36 INFO  Main:Main:31 -Do you want to continue Y/N?
